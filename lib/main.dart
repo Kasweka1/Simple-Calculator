@@ -106,7 +106,7 @@ class _SimpleCalculatorState extends State<SimpleCalculator> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Simple Calculator"),
+        title: Text("Simple Calculator App"),
       ),
       body: Column(
         children: <Widget>[
